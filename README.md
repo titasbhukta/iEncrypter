@@ -11,4 +11,4 @@ Image encryption is a technique which codes the original image to another un-und
 Image decryption is a reverse process of encryption in which it converts cipher image into plain image.
 Cryptography uses the decryption technique at the receiver side to obtain the original message from non readable message.
 
-<a href="https://drive.google.com/file/d/14mT9yvRFK0aCDIiF3uWaYg6SOUYGlj4a/view?usp=sharing">Download .exe file</a>
+<a target="_blank" href="https://drive.google.com/file/d/14mT9yvRFK0aCDIiF3uWaYg6SOUYGlj4a/view?usp=sharing">Download .exe file</a>
